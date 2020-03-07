@@ -6,8 +6,8 @@
 
 这个efi 适用于dell vostro 3578 
 
-
 本机配置 
+
 CPU i5-8250u
        
 内存 4GB DDR4 2400
