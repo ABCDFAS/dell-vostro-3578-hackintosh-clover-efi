@@ -6,12 +6,16 @@
 
 这个efi 适用于dell vostro 3578 
 
-本机配置 CPU i5-8250u
-       内存 4GB DDR4 2400
-       硬盘 256GB 镁光SATA SSD
-       显卡 核显 UHD620
-           独显Radeon 520（黑果无法驱动）
-	   
+本机配置 
+CPU i5-8250u
+       
+内存 4GB DDR4 2400
+       
+硬盘 256GB 镁光SATA SSD
+       
+显卡 核显 UHD620
+           
+独显Radeon 520（黑果无法驱动）
 
 壁纸是原始的哦 不要被吓到哦
 
