@@ -41,3 +41,15 @@ GitHub不能下太多哈 回来下不完整 这里给个百度云链接 （已�
 2020/03/13更新：kext简化 解决可能因为触控板而导致的卡屏死机问题 将EFI内容打包成ZIP形式 有效解决部分下载不完整问题
 
 百度网盘链接:https://pan.baidu.com/s/1Cy_hf8INA946SzzVzGwqpQ  密码:z0vo
+
+最后来几张图~嘻嘻!![](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.39.34.png)
+
+![截屏2020-03-14上午12.40.14](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.40.14.png)
+
+![截屏2020-03-14上午12.40.37](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.40.37.png)
+
+![截屏2020-03-14上午12.40.46](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.40.46.png)
+
+![截屏2020-03-14上午12.41.22](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.41.22.png)
+
+![截屏2020-03-14上午12.41.37](/Users/gaotiancheng/Desktop/截屏2020-03-14上午12.41.37.png)
