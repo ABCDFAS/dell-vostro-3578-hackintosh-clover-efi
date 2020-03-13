@@ -44,3 +44,14 @@ GitHub不能下太多哈 回来下不完整 这里给个百度云链接 （已�
 
 最后放几张图~嘻嘻
 
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.39.34.png)
+
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.40.14.png)
+
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.40.37.png)
+
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.40.46.png)
+
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.41.22.png)
+
+![image](https://github.com/ABCDFAS/-picture/blob/master/截屏2020-03-14上午12.41.37.png)
