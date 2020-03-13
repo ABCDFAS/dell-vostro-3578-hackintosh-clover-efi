@@ -40,4 +40,6 @@ GitHub不能下太多哈 回来下不完整 这里给个百度云链接 （已�
 
 2020/03/13更新：kext简化 解决可能因为触控板而导致的卡屏死机问题 将EFI内容打包成ZIP形式 有效解决部分下载不完整问题
 
-百度网盘链接:https://pan.baidu.com/s/1Cy_hf8INA946SzzVzGwqpQ  密码:z0vo
+再次更新：再次优化EFI内容 主题去掉 orgin里的文件去掉 win引导删除 现在压缩大小为5.4MB 可以正常下载了
+
+百度网盘链接:https://pan.baidu.com/s/1-xFgSePsD435wjEgoAb4YQ  密码:ukcv
