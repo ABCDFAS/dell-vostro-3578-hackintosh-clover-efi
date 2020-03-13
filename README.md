@@ -32,7 +32,7 @@ bios设置 csm关闭 uefi打开 secure boot关闭
 
 clover版本 5103
 
-GitHub不能下太多哈 回来下不完整 这里给个百度云链接 自己加的链接:https://pan.baidu.com/s/1Gic4r4cfC0pc1nHeiC8fTg  密码:iskf
+GitHub不能下太多哈 回来下不完整 这里给个百度云链接 （已更新 请看下面）
 
 掉了的话提醒我一声 我会补上
 
