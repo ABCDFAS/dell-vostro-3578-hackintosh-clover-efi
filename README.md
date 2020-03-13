@@ -1,4 +1,6 @@
-## 这里是Dell vostro 3578 黑果的efi哦
+## 这里是Dell vostro 3578 黑果的efi（可下载文件的仓库）
+
+需要预览EFI内的文件 请移步至此仓库https://github.com/ABCDFAS/vostro-3578-hackintosh-efi/
 
 网上查了很多都没有这个机型的efi 今天我来了～ 来放上～（毕竟这机型也很冷门呐）
 
@@ -39,6 +41,3 @@ GitHub不能下太多哈 回来下不完整 这里给个百度云链接 （已�
 2020/03/13更新：kext简化 解决可能因为触控板而导致的卡屏死机问题 将EFI内容打包成ZIP形式 有效解决部分下载不完整问题
 
 百度网盘链接:https://pan.baidu.com/s/1Cy_hf8INA946SzzVzGwqpQ  密码:z0vo
-
-需要预览EFI的文件 请移步至另一个仓库
-
